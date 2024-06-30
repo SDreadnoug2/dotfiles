@@ -1,0 +1,19 @@
+[font]
+size = 12
+normal = {family = "Hurmit Nerd Font Mono",style = "Regular"}
+italic = { family = "Hurmit Nerd Font Mono", style = "Italic"}
+bold = { family = "Hurmit Nerd Font Mono", style = "Bold"}
+
+[window]
+opacity = 0.8
+padding = { x = 20, y = 20}
+title = "Terminal"
+
+[colors]
+primary.background = "#071829"
+primary.foreground = "#ffffff"
+cursor = { text = "#000000", cursor = "#f3f4f5" }
+
+[cursor]
+style = {shape = "Block", blinking = "always"}
+blink_interval = 500
